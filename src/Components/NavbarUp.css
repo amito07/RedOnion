@@ -1,0 +1,16 @@
+.nav-logo{
+    width: 100px;
+}
+
+.nav-button {
+    margin-left: 20px;
+	border-radius:28px;
+	display:inline-block;
+	cursor:pointer;
+	padding: 5px 30px !important;
+    font-weight: 600;
+}
+.nav-button:hover {
+	background-color: #f91944;
+    color: white !important;
+}

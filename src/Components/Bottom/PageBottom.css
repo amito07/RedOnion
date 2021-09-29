@@ -1,0 +1,27 @@
+.page-bottom-main{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+
+.bottom-logo{
+    text-align: center;
+}
+
+.bottom-img{
+    margin-top: 70px;
+    width: 150px;
+}
+
+.bottom-details{
+    display: flex;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.list-style{
+    list-style-type: none;
+    color: aliceblue;
+    font-size: small;
+}

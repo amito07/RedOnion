@@ -2,6 +2,7 @@ import React from 'react'
 import '../Home/Home.css'
 import BodyItems from '../Body/BodyItems'
 import BodyBottom from '../Body/BodyBottom'
+import PageBottom from '../Bottom/PageBottom'
 
 function Home() {
     return (
@@ -24,6 +25,7 @@ function Home() {
                 <button className='body-btn' >Checkout Your Food</button>
             </div>
             <BodyBottom/>
+            <PageBottom/>
 
         </>
     )
